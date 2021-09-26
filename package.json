@@ -33,7 +33,7 @@
     "prepack": "yarn run bundle"
   },
   "peerDependencies": {
-    "electron": "github:castlabs/electron-releases#v11.5.0-wvvmp"
+    "electron": "github:meforce/electron#11.5.0-wvvmp"
   },
   "dependencies": {
     "@cliqz/adblocker-content": "github:meforce/cliqz-adblocker-castlabs-content#v1.22.7"
@@ -42,7 +42,7 @@
     "@rollup/plugin-commonjs": "^20.0.0",
     "@rollup/plugin-node-resolve": "^13.0.0",
     "@types/chrome": "^0.0.157",
-    "electron": "github:castlabs/electron-releases#v11.5.0-wvvmp",
+    "electron": "github:meforce/electron#11.5.0-wvvmp",
     "rimraf": "^3.0.0",
     "rollup": "^2.57.0",
     "rollup-plugin-sourcemaps": "^0.6.1",
