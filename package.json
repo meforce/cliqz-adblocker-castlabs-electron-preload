@@ -33,7 +33,7 @@
     "prepack": "yarn run bundle"
   },
   "peerDependencies": {
-    "electron": "*"
+    "electron": "github:castlabs/electron-releases#v11.5.0-wvvmp"
   },
   "dependencies": {
     "@cliqz/adblocker-content": "^1.22.7"
